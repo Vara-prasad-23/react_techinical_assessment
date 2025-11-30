@@ -107,7 +107,7 @@ const generateCategories = () => {
       name: 'Electronics',
       slug: 'electronics',
       description: 'Electronic devices and gadgets',
-      image: 'https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg',
+      image: 'https://images.unsplash.com/photo-1597130440911-460f95bab68b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZWxlY3Ryb25pY3MlMjBkZXZpY2VzfGVufDB8fDB8fHww',
       parentId: null,
       createdAt: new Date('2024-01-01').toISOString()
     },
@@ -116,7 +116,7 @@ const generateCategories = () => {
       name: 'Clothing',
       slug: 'clothing',
       description: 'Fashion and apparel',
-      image: 'https://cdn.pixabay.com/photo/2016/03/27/21/16/t-shirts-1281752_1280.jpg',
+      image: 'https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2xvdGhpbmd8ZW58MHx8MHx8fDA%3D',
       parentId: null,
       createdAt: new Date('2024-01-01').toISOString()
     },
@@ -125,7 +125,7 @@ const generateCategories = () => {
       name: 'Home & Garden',
       slug: 'home-garden',
       description: 'Home improvement and garden supplies',
-      image: 'https://cdn.pixabay.com/photo/2016/11/29/05/08/adult-1867743_1280.jpg',
+      image: 'https://plus.unsplash.com/premium_photo-1661894564680-789acc4e264b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjMyfHxob21lJTIwJTI2Z2FyZGVufGVufDB8fDB8fHww',
       parentId: null,
       createdAt: new Date('2024-01-01').toISOString()
     },
@@ -134,7 +134,7 @@ const generateCategories = () => {
       name: 'Books',
       slug: 'books',
       description: 'Books and literature',
-      image: 'https://cdn.pixabay.com/photo/2014/04/05/11/39/books-316377_1280.jpg',
+      image: 'https://images.unsplash.com/photo-1513001900722-370f803f498d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJvb2tzfGVufDB8fDB8fHww',
       parentId: null,
       createdAt: new Date('2024-01-01').toISOString()
     },
@@ -143,7 +143,7 @@ const generateCategories = () => {
       name: 'Sports & Outdoors',
       slug: 'sports-outdoors',
       description: 'Sports equipment and outdoor gear',
-      image: 'https://cdn.pixabay.com/photo/2016/11/29/03/53/adult-1867744_1280.jpg',
+      image: 'https://images.unsplash.com/photo-1758798478573-d653d9b6ac6b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNwb3J0cyUyMCUyNm91dGRvb3JzfGVufDB8fDB8fHww',
       parentId: null,
       createdAt: new Date('2024-01-01').toISOString()
     },
@@ -152,7 +152,7 @@ const generateCategories = () => {
       name: 'Smartphones',
       slug: 'smartphones',
       description: 'Mobile phones and accessories',
-      image: 'https://cdn.pixabay.com/photo/2017/01/22/19/20/smartphone-2008573_1280.jpg',
+      image: 'https://images.unsplash.com/photo-1721686602598-005825cce7c8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNtYXJ0cGhvbmVzfGVufDB8fDB8fHww',
       parentId: 'cat-1',
       createdAt: new Date('2024-01-01').toISOString()
     },
@@ -161,7 +161,7 @@ const generateCategories = () => {
       name: 'Laptops',
       slug: 'laptops',
       description: 'Laptop computers',
-      image: 'https://cdn.pixabay.com/photo/2014/05/02/21/50/home-office-336368_1280.jpg',
+      image: 'https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGFwdG9wc3xlbnwwfHwwfHx8MA%3D%3D',
       parentId: 'cat-1',
       createdAt: new Date('2024-01-01').toISOString()
     }
